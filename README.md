@@ -1,2 +1,2 @@
 # My personal site
-a site for things
+Site for easy navigation of what i do.
