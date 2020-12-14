@@ -1,2 +1,2 @@
 # My personal site
-Site for easy navigation of what i do.
+a throwback to when sites were written in notepad
